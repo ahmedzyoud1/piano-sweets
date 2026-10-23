@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 
-const OWNER = "ahmedzyoud9-hash";
+const OWNER = "ahmedzyoud1";
 const REPO = "piano-sweets";
 const BRANCH = "main";
 const DIR = "public/products/uploads";
