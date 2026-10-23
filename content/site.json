@@ -89,12 +89,12 @@
         "link": "https://www.pianokw.com/category/chocolate"
       },
       {
-        "num": "0",
+        "num": "",
         "ar": "موالح",
         "en": "SALTY",
         "desc": "تشكيلات للأعراس والمناسبات تصنع لحظاتٍ لا تنسى.",
         "image": {
-          "web": "https://raw.githubusercontent.com/ahmedzyoud1/piano-sweets/main/public/products/uploads/1792755558544-cah7w6.jpg",
+          "web": "https://raw.githubusercontent.com/ahmedzyoud1/piano-sweets/main/public/products/uploads/1792766132722-0zmmlq.jpg",
           "mobile": ""
         },
         "enabled": true,
